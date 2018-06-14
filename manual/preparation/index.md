@@ -1,4 +1,4 @@
-[Arbitious利用マニュアル](../) ＞ 事前準備
+[Arbitious利用マニュアル](../README.md) ＞ 事前準備
 
 # 事前準備
 
