@@ -22,13 +22,13 @@ Arbitiousで裁定取引を行うために、次の準備が必要です。
 | **Quoine**         | [https://ja.quoinex.com/](https://ja.quoinex.com/) | |
 | ~~Coincheck~~       | ~~https<span>://coincheck.com/ja/</span>~~   | ▲現在新規受付停止中のため開設不可(2018/5/1現在) |
 
-- [口座開設方法：bitFlyer](OpenAccountBF.md)
+- [口座開設方法：bitFlyer](./openaccount_bf)
 
 - [口座開設方法：bitbank.cc](OpenAccountBB.md)
 
 - [口座開設方法：BTCBox](OpenAccountBX.md)
 
-- [口座開設方法：Quoine](OpenAccountQN.md)
+- [口座開設方法：Quoine](./openaacount_qn)
 
 ## 2. 取引所への入金
 
