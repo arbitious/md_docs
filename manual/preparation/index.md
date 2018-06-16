@@ -24,11 +24,11 @@ Arbitiousで裁定取引を行うために、次の準備が必要です。
 
 - [口座開設方法：bitFlyer](./openaccount_bf)
 
-- [口座開設方法：bitbank.cc](OpenAccountBB.md)
+- [口座開設方法：bitbank.cc](./openaccount_bb)
 
-- [口座開設方法：BTCBox](OpenAccountBX.md)
+- [口座開設方法：BTCBox](./openaccount_bx)
 
-- [口座開設方法：Quoine](./openaacount_qn)
+- [口座開設方法：Quoine](./openaccount_qn)
 
 ## 2. 取引所への入金
 
@@ -62,7 +62,7 @@ APIキーの呼び方は取引所によって異なりますが、IDとKeyに相
 APIキーは決して他人に知られないように**厳重に取り扱ってください**。
 
 
-- [APIキーの取得方法：bitFlyer](GetAPIKeyBF.md)
-- [APIキーの取得方法：bitbank<span>.</span>cc](GetAPIKeyBB.md)
-- [APIキーの取得方法：BTCBox](GetAPIKeyBX.md)
-- [APIキーの取得方法：Quoine](GetAPIKeyQN.md)
+- [APIキーの取得方法：bitFlyer](./getapikey_bf)
+- [APIキーの取得方法：bitbank<span>.</span>cc](./getapikey_bb)
+- [APIキーの取得方法：BTCBox](./getapikey_bx)
+- [APIキーの取得方法：Quoine](./getapikey_qn)
