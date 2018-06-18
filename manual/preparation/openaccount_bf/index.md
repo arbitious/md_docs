@@ -1,4 +1,4 @@
-[Arbitious利用マニュアル](../) ＞ [事前準備](./) ＞ 口座開設方法:bitFlyer
+[Arbitious利用マニュアル](../../) ＞ [事前準備](../) ＞ 口座開設方法:bitFlyer
 
 # 口座開設方法：bitFlyer
 
