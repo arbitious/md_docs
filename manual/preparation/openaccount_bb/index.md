@@ -14,16 +14,16 @@
 
 #### (1) アカウント作成
 
-1.  [公式ページ](https://www.btcbox.co.jp/)を開き、新規登録をクリックします。
-![](https://support.btcbox.co.jp/hc/article_attachments/360002693813/zhuce-1.jpg)
+1.  [公式ページ](https://www.bitbank.cc/)を開き、新規登録をクリックします。
+![](https://support.bitbank.cc/hc/article_attachments/360002693813/zhuce-1.jpg)
 
 1.  ページを開いたら、新規登録をクリックします。
 
 1. メールアドレスとログインパスワードを入力して、利用規約を確認後、「上記の規約を同意して、次へ」ボタンをクリックしてください。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002693873/zhuce-2.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002693873/zhuce-2.jpg)
 
 1. 登録されたメールアドレスに確認メールが送られます。
-![](https://support.btcbox.co.jp/hc/article_attachments/360002691074/zhuce-3.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002691074/zhuce-3.jpg)
  
 
 #### (2) 電話番号認証
@@ -37,10 +37,10 @@
 #### (3) 本人情報の登録
 
 1. ログイン後の画面で、上部メニューの「セキュリティ」をクリック、左メニューの「本人確認」へ  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002694313/renzheng-1.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002694313/renzheng-1.jpg)
 
 2. お客様情報入力画面が表示されます。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002691574/renzheng-2.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002691574/renzheng-2.jpg)
 
 1. 以下の情報を順番に入力します。  
 
@@ -63,7 +63,7 @@
 #### (4) 本人確認書類の提出
 
 1. 本人確認書類のアップロード画面が表示されます。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002691514/renzheng-3.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002691514/renzheng-3.jpg)
 
 2. 本人確認書類として以下のいずれか一点のファイルを用意し、アップロードします(有効期限内のもの)。  
 ファイルの種類はpng、jpg、jpeg、gifです。PDFは使えません。
@@ -91,20 +91,20 @@
     マイナンバーカードについては、「有効期限内のもの、顔写真が記載されている表面のコピーをお送りください。裏面に変更の記載がない場合、裏面のコピーは不要です。裏面に変更の記載がある場合は、裏面の提出が必要ですが、マイナンバー部分は、読み取れないように黒く塗りつぶしてご提出ください。
 
 3. 書類を提出すると、ハガキが送られてきます。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002694353/renzheng-4.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002694353/renzheng-4.jpg)
 
 #### (5) ハガキの受け取りとパスワード設定
 
 1. ハガキのお受け取り(簡易書留)を受け取ります。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002691534/renzheng-5.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002691534/renzheng-5.jpg)
 
 1. ハガキにはワンタイムの認証コードが記載されています。
 
 1. BTCBOXのサイトへログインし、認証コードを入力します。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002694393/renzheng-7.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002694393/renzheng-7.jpg)
 
 1. 続けて、取引パスワードを設定します。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002691554/renzheng-8.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002691554/renzheng-8.jpg)
 
 #### (6) その他の準備
 
@@ -123,11 +123,11 @@
    - Andoird用 Google Authenticator：[インストール]  (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)  
 
 1. bitbankへログイン後、トップページで、セキュリティ ＞「2段階認証」をクリックしてください。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
 
 
 1. 画面の手順に従ってバーコードをスキャンします。  
-![](https://support.btcbox.co.jp/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
+![](https://support.bitbank.cc/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
 
 ---
 
