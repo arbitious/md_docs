@@ -3,7 +3,8 @@ title: [Arbitious 利用マニュアル]
 description: [仮想通過自動裁定取引ツールArbitiousの準備・設定・運用]
 #github: "false"
 github:
-  repository_url: http://example.com
+  repository_url: 
+#  repository_url: http://example.com
 #show_downloads: "false"
 #github:
 #  is_project_page: false
