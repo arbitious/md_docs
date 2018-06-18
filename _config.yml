@@ -2,6 +2,6 @@ theme: jekyll-theme-slate
 title: [Arbitious 利用マニュアル]
 description: [仮想通過自動裁定取引ツールArbitiousの準備・設定・運用]
 github: "false"
-show_downloads: "false"
+#show_downloads: "false"
 #github:
 #  is_project_page: false
