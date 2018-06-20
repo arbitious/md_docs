@@ -5,10 +5,9 @@
 #### bitbank口座開設 チェックシート
 
 - [ ] アカウント作成
-- [ ] 電話番号認証
 - [ ] 本人情報の登録
-- [ ] 本人確認資料の提出
-- [ ] ハガキの受け取りとパスワード設定
+- [ ] 本人確認書類の提出
+- [ ] ハガキの受け取り
 - [ ] その他の準備：銀行口座の登録
 - [ ] その他の準備：二段階認証の設定
 
@@ -22,9 +21,6 @@
 1. 登録されたメールアドレスに確認メールが送られます。
 ![](https://bitbankcc.zendesk.com/hc/article_attachments/115004258694/4.png)
  
-
-#### (2) 各種確認
-
 1. メールに書かれているURLをクリックすると、パスワード登録画面が表示されます。
 (URLには有効期限があるので注意してください。)
 ![](https://bitbankcc.zendesk.com/hc/article_attachments/115004229813/6.png)
@@ -84,9 +80,9 @@
 
 2. 完了画面が表示されます。
 
-#### (5) ハガキの受け取りとパスワード設定
+#### (5) ハガキの受け取り
 
-1. bitbankの審査が完了後、住所確認のため郵送を行います
+1. bitbankの審査が完了後、住所確認のため郵送を行います。
 ![](https://support.bitbank.cc/hc/article_attachments/360002691534/renzheng-5.jpg)
 
 1. ハガキ受け取り後、1〜2日で取引が可能となります。
@@ -103,16 +99,18 @@
 1. 二段階認証を行うには、スマートフォンにGoogle Authenticatorなどの対応アプリを入れる必要があります。  
 (1つのアプリで複数のサービスの二段階認証を管理できます)  
 
-   - iPhone用 Google Authenticator：[インストール]
+   - iPhone用 Google Authenticator：[インストール]  
   (http://appstore.com/googleauthenticator)  
-   - Andoird用 Google Authenticator：[インストール]  (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)  
+   - Andoird用 Google Authenticator：[インストール]   (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)  
 
-1. bitbankへログイン後、トップページで、セキュリティ ＞「2段階認証」をクリックしてください。  
-![](https://support.bitbank.cc/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
+1. bitbankへログイン後、取引画面で右上のひと形のアイコンを押し、表示されたメニューから「セキュリティ」を押します。  
+![](https://bitbankcc.zendesk.com/hc/article_attachments/360000576314/1.png)
 
+1. セキュリティのページ内の二段階認証の欄の「設定」ボタンを押します。  
+![](https://bitbankcc.zendesk.com/hc/article_attachments/360000576394/4.png)
 
-1. 画面の手順に従ってバーコードをスキャンします。  
-![](https://support.bitbank.cc/hc/article_attachments/360002695673/shuangchongyz-1.jpg)
+1. 画面に表示されたバーコードをスキャンします。  
+![](https://bitbankcc.zendesk.com/hc/article_attachments/360000576374/5.png)
 
 ---
 
