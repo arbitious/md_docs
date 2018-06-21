@@ -15,37 +15,18 @@
 
 
 
-1. [BTCBox Lightning](https://www.btcbox.co.jp/user/login/)へログインします。  
+1. [BTCBox](https://www.btcbox.co.jp/user/login/)へログインします。  
 
 1. 右上の財産センターを押し、表示メニューから「APIキーの取得」を押す。
 ![](https://www.btcbox.co.jp/images/jubi/api-1.jpg)
 
-1. 必要な情報を入力し、「確認」を押します。
-    - API名称：「Arbitious」
-    - 取引パスワード
-    - Google2段階認証
+1. 必要な情報を入力し、「確認」を押します。  
+- API名称：「Arbitious」
+- 権限：全て権限
+- 取引パスワード
+- Google2段階認証
 ![](https://www.btcbox.co.jp/images/jubi/api-2.jpg)
 
-1. 公開鍵と秘密鍵が表示されます。
+1. 公開鍵と秘密鍵が表示されます。  
+**秘密鍵は一度しか表示されません。厳重に保管してください。**  
 ![](https://www.btcbox.co.jp/images/jubi/api-3.jpg)
-
-
-- ラベル：Arbitious
-
-- チェックボックス(以下項目のみチェック)
-
-  - 資産残高を取得
-
-  - 約定の一覧を取得
-
-  - ビットコイン・イーサ預入履歴の取得
-
-  - ビットコイン・イーサ送付履歴の取得 
-
-  - 入金履歴の取得
-
-  - 出金履歴の取得
-
-5. 設定後、「OK」をクリックするとAPIキーが保管されます。
-
-5. API Key、API Secretが利用可能となります。APIキーは厳重に管理してください。
