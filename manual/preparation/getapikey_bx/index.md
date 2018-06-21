@@ -8,8 +8,8 @@
 
 1. 必要な情報を入力し、「確認」を押します。  
 ![](https://www.btcbox.co.jp/images/jubi/api-2.jpg)
-    - API名称：「Arbitious」
-    - 権限：全て権限
+    - API名称：「**Arbitious**」
+    - 権限：**全て権限**
     - 取引パスワード
     - Google2段階認証
 
