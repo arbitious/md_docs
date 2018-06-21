@@ -1,4 +1,4 @@
-[Arbitious利用マニュアル](../README.md) ＞ [事前準備](./README.md) ＞ APIキーの取得方法：BTCBox
+[Arbitious利用マニュアル](../../) ＞ [事前準備](../) ＞ APIキーの取得方法：BTCBox
 
 # APIキーの取得方法：BTCBox
 
