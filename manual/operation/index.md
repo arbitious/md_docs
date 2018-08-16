@@ -1,1 +1,1 @@
-[Arbitious利用マニュアル](../) ＞ 利用マニュアル
+[Arbitious利用マニュアル](../) ＞ Arbitiousの設定と運用
